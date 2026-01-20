@@ -1,7 +1,3 @@
-Here is a clean, repo-ready `README.md` you can drop in:
-
----
-
 # Systematic Assessment of Clinical Evidence for FDA-Approved AI/ML Medical Devices
 
 This repository implements a **three-phase automated pipeline** for mapping the clinical evidence base supporting FDA-approved artificial intelligence and machine learning (AI/ML) medical devices.
@@ -258,28 +254,3 @@ This phase yields structured variables for downstream analysis of:
 * Outputs are CSV-based and versionable
 * Designed for scheduled re-runs as FDA approvals evolve
 
----
-
-## Citation
-
-If using this pipeline, please cite:
-
-> Systematic Assessment of Clinical Evidence for FDA-Approved AI/ML Medical Devices.
-> Supplementary Methods.
-> Data sources: FDA AI/ML Device Database, PubMed, ClinicalTrials.gov.
-
----
-
-## Contact
-
-For questions, issues, or extensions:
-Open a GitHub issue or submit a pull request.
-
----
-
-If you'd like, I can also add:
-
-* CLI argument support
-* Config file for paths and rate limits
-* Logging and progress bars
-* Notebook (.ipynb) wrappers for Colab
